@@ -54,3 +54,44 @@ body {
     border-radius: 13px;
     margin-top: 30px;
 }
+
+.sections {
+    background-color: #000;
+    color: #fff;
+}
+
+section {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 50px;
+    
+}
+
+.section-title-container {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.section-title {
+    font-size: 38px;
+    font-weight: 600;
+}
+
+.about-description-box {
+    border: 1px solid #05b62c;
+    padding: 50px 60px;
+    margin-top: 40px;
+}
+
+.about-description {
+    text-align: justify;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 39px;
+}
+
+.about-line-box {
+    height: 19px;
+    background-color: #05b62c;
+}
