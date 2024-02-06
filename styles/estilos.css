@@ -181,3 +181,9 @@ section {
     gap: 30px;
     margin: 42px 0 50px 0;
 }
+
+footer {
+    padding: 34px 0;
+    text-align: center;
+    font-weight: 600;
+}
