@@ -162,10 +162,10 @@ section {
     background-color: #575757;
 }
 
-.section-projects-mirror {
+/* .section-projects-mirror {
     display: flex;
     flex-direction: row-reverse;
     gap: 28px;
     padding: 60px 0;
     align-items: center;
-}
+} */
