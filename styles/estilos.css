@@ -55,6 +55,10 @@ body {
     margin-top: 30px;
 }
 
+.main-button:hover {
+    background-color: #14631c; 
+}
+
 .sections {
     background-color: #000;
     color: #fff;
@@ -166,8 +170,8 @@ section {
     font-weight: 700;    
 }
 
-.buttons:hover {
-    background-color: #575757;
+.project-buttons:hover {
+    background-color: #212121;
 }
 
 /* .section-projects-mirror {
