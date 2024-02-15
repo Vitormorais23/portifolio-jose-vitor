@@ -61,3 +61,8 @@
     }
 }
 
+@media screen  and (max-width: 498px){ 
+    .title-project {
+        line-height: 25px;
+    }
+}
